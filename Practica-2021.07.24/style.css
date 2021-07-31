@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: cursive;
+}
+
+ul.navbar{
+    list-style-type: none;
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+ul.navbar a{
+    text-decoration: none;
+}
+
+a:link{
+    color: red;
+}
+a:visited{
+    color:skyblue;
+}

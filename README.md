@@ -5,6 +5,14 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 
 ## Historial
 
+2021.07.24
+- Formularios
+- Controles basicos
+- Estilos con CSS
+- Tablas para mostrar datos
+- Combinar columnas y filas de tabls
+- Creacion de menus
+
 2021.07.17
 - Creación de primer página HTML y práctica sobre uso de etiquetas html básicas:
     - table

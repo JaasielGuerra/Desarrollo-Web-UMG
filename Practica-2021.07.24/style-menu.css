@@ -1,0 +1,24 @@
+body{
+    background-color: teal;
+    color:purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+    color: inherit;
+}
+
+nav li{
+    display: inline-block;
+    width: 10%;
+    padding: 5px 15px;
+    background-color: black;
+    border: 1px solid black;
+    text-align: center;
+}
+
+nav li:hover{
+    background-color: yellow;
+}
