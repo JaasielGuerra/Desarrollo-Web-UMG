@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 10px;
+            background: url('bg.jpg');
+        }
+
+        .header {
+            padding: 30px;
+            text-align: center;
+            background-color: white;
+        }
+
+        .header h1 {
+            font-size: 50px;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background: #333;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .leftcolum {
+            float: left;
+            width: 25%;
+            background-color: #f1f1f1;
+            padding-left: 20px;
+        }
+
+        .righcolumn {
+            float: left;
+            width: 25%;
+            background-color: #f1f1f1;
+            padding-left: 20px;
+        }
+
+        .estiloimagen {
+            background-color: #aaa;
+            width: 100%;
+        }
+
+        .card {
+            background-color: white;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .footer {
+            padding: 20px;
+            text-align: center;
+            background-color: #ddd;
+            margin-top: 20px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        @media screen and (max-width: 800px) {
+
+            .leftcolum,
+            .rightcolumn {
+                width: 100%;
+                padding: 0;
+            }
+        }
+
+        @media screen and (max-width: 400px) {
+            .topnav a {
+                float: none;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Bienvenidos al curso Desarrollo Web</h1>
+        <h2>Jaasiel Guerra</h2>
+    </div>
+
+    <div class="topnav">
+        <a href="#">Perfil</a>
+        <a href="#">Contacto</a>
+        <a href="#">Portafolio</a>
+        <a href="#">Redes Sociales</a>
+        <a href="#" style="float: right;">Login</a>
+    </div>
+
+    <div class="row">
+        <div class="leftcolum">
+            <div class="card">
+                <h2>programacion reactiva</h2>
+                <h5>Publicado el 2021-07-31</h5>
+                <img src="img.jpg" class="estiloimagen" style="height: 200px;" />
+
+                <p>Informacion adicional</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloremque fuga quo inventore
+                    officia quia cum pariatur, magni voluptate veniam ipsa sed exercitationem temporibus soluta,
+                    repellendus tempore. Quasi, fugit repudiandae!</p>
+            </div>
+            <div class="card">
+                <h2>programacion reactiva</h2>
+                <h5>Publicado el 2021-07-31</h5>
+                <img src="img.jpg" class="estiloimagen" style="height: 200px;" />
+                <p>Informacion adicional</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloremque fuga quo inventore
+                    officia quia cum pariatur, magni voluptate veniam ipsa sed exercitationem temporibus soluta,
+                    repellendus tempore. Quasi, fugit repudiandae!</p>
+            </div>
+        </div>
+
+        <div class="righcolumn">
+            <div class="card">
+                <h2>programacion reactiva</h2>
+                <h5>Publicado el 2021-07-31</h5>
+                <img src="img.jpg" class="estiloimagen" style="height: 200px;" />
+                <p>Informacion adicional</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloremque fuga quo inventore
+                    officia quia cum pariatur, magni voluptate veniam ipsa sed exercitationem temporibus soluta,
+                    repellendus tempore. Quasi, fugit repudiandae!</p>
+            </div>
+            <div class="card">
+                <h2>programacion reactiva</h2>
+                <h5>Publicado el 2021-07-31</h5>
+                <img src="img.jpg" class="estiloimagen" style="height: 200px;" />
+                <p>Informacion adicional</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloremque fuga quo inventore
+                    officia quia cum pariatur, magni voluptate veniam ipsa sed exercitationem temporibus soluta,
+                    repellendus tempore. Quasi, fugit repudiandae!</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
