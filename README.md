@@ -7,6 +7,9 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 2021.08.28
 - Organizacion base para un proyecto con PHP puro
 
+2021.08-21
+- Ejercicios de practica con PHP basico
+
 2021.08.14
 - ejercicios intruductorios a javascript
 
