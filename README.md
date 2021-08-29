@@ -5,6 +5,9 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 
 ## Historial
 
+2021.08.28
+- Organizacion base para un proyecto con PHP puro
+
 2021.07.31
 - Avances de blog hecho en html y css
 - copia de pagina pensum umg
