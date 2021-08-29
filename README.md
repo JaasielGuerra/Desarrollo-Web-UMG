@@ -4,9 +4,11 @@ Curso desarrollo web 2021 UMG.
 Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados en el curso Desarrollo Web. El código  está organizado en carpetas nombradas con la fecha en que se realizó la actividad.
 
 ## Historial
-
 2021.08.28
 - Organizacion base para un proyecto con PHP puro
+
+2021.08.14
+- ejercicios intruductorios a javascript
 
 2021.07.31
 - Avances de blog hecho en html y css
