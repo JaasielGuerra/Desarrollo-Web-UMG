@@ -3,7 +3,15 @@ Curso desarrollo web 2021 UMG.
 
 Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados en el curso Desarrollo Web. El código  está organizado en carpetas nombradas con la fecha en que se realizó la actividad.
 
+## Libros
+
+- Curso libro de angular 4: <https://drive.google.com/file/d/1C4RdDfWNY-i72pNmkoSlXLI9VYfngBBQ/view>
+- Libro de PHP: <https://drive.google.com/file/d/1VYmcJ4mrBKcHB2GNG01q3ZzjSTDHgqHZ/view?usp=sharing>
+
 ## Historial
+2021.09.06
+- App angular para curso libro de angular
+
 2021.09.04
 - Formulario alumno con Angular
 
