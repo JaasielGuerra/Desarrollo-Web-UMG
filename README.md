@@ -8,7 +8,24 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 - Curso libro de angular 4: <https://drive.google.com/file/d/1C4RdDfWNY-i72pNmkoSlXLI9VYfngBBQ/view>
 - Libro de PHP: <https://drive.google.com/file/d/1VYmcJ4mrBKcHB2GNG01q3ZzjSTDHgqHZ/view?usp=sharing>
 
+## Referencias
+- Generar PDF: https://www.kodetop.com/generar-archivos-pdf-con-php/
+- Video generar pdf: https://www.youtube.com/watch?v=SBAM9cBl17w
+- Mostrar PDF en iframe: https://stackoverflow.com/questions/20645034/try-to-show-pdf-file-using-php-and-fpdf
+- Instalar composer: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04-es
+- Instalar paquete `ext-intl` de PHP: https://stackoverflow.com/questions/42243461/how-to-install-php-intl-extension-in-ubuntu-14-04
+
+
 ## Historial
+
+2021.09.11
+- Mini proyecto de Pacientes Covid con PHP
+    - Dashboard
+    - Reportes PDF
+    - CRUD pacientes
+- Introduccion a codeigniter4 e instalacion de composer
+- Comando crear appstarter composer: `composer create-project codeigniter4/appstarter`
+
 2021.09.06
 - App angular para curso libro de angular
 
