@@ -17,6 +17,8 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 
 
 ## Historial
+2021.09.18
+. Mini Proyecto en php para segundo examen parcial
 
 2021.09.11
 - Mini proyecto de Pacientes Covid con PHP
