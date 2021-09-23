@@ -17,6 +17,9 @@ Aquí se encuentra todo el código de las prácticas y/o ejercicios realizados e
 
 
 ## Historial
+2021.09.22
+- Practica con Spring Boot siguiente el curso de: <https://www.youtube.com/watch?v=ltA-mIYyxhY&list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl>
+
 2021.09.18
 . Mini Proyecto en php para segundo examen parcial
 
